@@ -10,7 +10,7 @@
 2. Use the `INSERT INTO` command to insert data (i.e. rows) into a database table
 3. Use the `SELECT` command with various functions and modifiers to write queries
 
-## Lab Structure
+## Lab Structurel
 
 This lab might seem a bit different than what you've seen before. Take a look at the file structure:
 
