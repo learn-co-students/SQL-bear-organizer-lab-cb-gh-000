@@ -67,7 +67,7 @@ Your columns should be the following types:
 |id     |integer| <-- Make sure this is the table's primary key
 |name   |text   |
 |age    |integer|
-|gender |char(1)(The choices would be "M" or "F")|
+|gender |text   |(The choices could be "Male", "Female", "Other", or "Prefer not to say")|
 |color  |text   |
 |temperament|text|
 |alive  |boolean|
