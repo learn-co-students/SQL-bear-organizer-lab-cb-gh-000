@@ -1,0 +1,10 @@
+INSERT INTO [BEARS](NAME,AGE,GENDER,COLOR,TEMPERAMENT,ALIVE)
+VALUES
+("Mr.Chocolate",1,"MALE","BROWN","RANDOM",1),
+("Rowdy",2,"MALE","WHITE","BOI",0),
+("Tabitha",3,"FEMALE","BROWN","UNKNOWN",1),
+("Sergeant Brown",2,"MALE","WHITE","BOI",0),
+("Melissa",1,"FEMALE","BROWN","UNKNOWN",1),
+("Grinch",2,"MALE","WHITE","BOI",0),
+("Wendy",1,"MALE","WHITE","BOI",0),
+(NULL,2,"FEMALE","BROWN","UNKNOWN",1);
