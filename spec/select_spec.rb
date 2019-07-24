@@ -38,6 +38,6 @@ describe 'querying the bears table' do
   end
 
   it 'selects the bear that killed Tim' do
-    expect(@db.execute(selects_bear_that_killed_Tim)).to eq([[8, nil, 20, "M", "black", "aggressive", 0]])
+    expect(@db.execute(selects_bear_that_killed_Tim)).to eq([[8, nil, 20, "M", "black", "aggressive", "0"]])
   end
 end
